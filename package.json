@@ -12,10 +12,10 @@
 		"type": "git",
 		"url": "git+https://github.com/donmccurdy/three-pathfinding.git"
 	},
-	"types": "index.d.ts",
 	"main": "dist/three-pathfinding.js",
 	"module": "dist/three-pathfinding.module.js",
 	"source": "src/index.js",
+	"types": "index.d.ts",
 	"browserslist": [
 		"last 2 versions and > 1%",
 		"maintained node versions"

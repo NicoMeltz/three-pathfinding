@@ -1,4 +1,4 @@
-import { BufferGeometry, Vector3 } from "three";
+import { BufferGeometry, Vector3 , Object3D} from "three";
 
 /**
  * Defines an instance of the pathfinding module, with one or more zones.
